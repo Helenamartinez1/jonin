@@ -1,1 +1,1 @@
-const offerLink = "https://v.ht/4VNUS";
+const offerLink = "https://www.youtube.com/@Lovedating36/about";
